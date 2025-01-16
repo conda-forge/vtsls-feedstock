@@ -1,5 +1,5 @@
 context:
-  version: 0.2.5
+  version: "0.2.8"
 
 package:
   name: vtsls
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@vtsls/language-server/-/language-server-${{ version }}.tgz
-  sha256: 068193ee62d6cc3e99117bf51633d892b683a9a05521c85fac307290c5f7a340
+  sha256: a046b400b776547457727c35ffab6d4582913a2230661878676e9790f4131d67
 
 build:
   number: 0
